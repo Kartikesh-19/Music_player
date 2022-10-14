@@ -36,7 +36,7 @@ export const {
   useGetSongDetailsQuery,
   useGetSongRelatedQuery,
   useGetArtistDetailsQuery,
-  ,
+  useGetTopChartsQuery,
   useGetSongsByCountryQuery,
   useGetSongsBySearchQuery,
 } = shazamCoreApi;
